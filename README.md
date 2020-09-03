@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align="center"> 👋 Hi there 👋 </p>
 
-<!--
-**Beomus/Beomus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img width="80" height="100" src="https://imgur.com/R462LAk.gif">
+</p>
 
-Here are some ideas to get you started:
+*****
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Hau (pronounced like **how/hoe/who?** 🤔 *nobody knows*). I am a business student who like to code and such. I enjoy writing some random Python and I am also really interested in AI/ML. 
+
+*****
+
+#### Additional info
+- 📚 I'm working on random projects to learn new skills
+- 🌱 I'm learning more about Deep Learning and NLP
+- ☕ Coffee in Tokyo? 🤔
+- 💬 Where to reach me:  <img width=20 src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/> [LinkedIn](https://www.linkedin.com/in/trunghaulelam/) <img width=25 src="https://img.icons8.com/clouds/100/000000/gmail.png"/> <trunghau60@gmail.com>
+- 😅 Fun fact: ✨ Orange juice does not taste good after you've just brushed your teeth ✨
+
+*****
+<p align="center"> 
+  Here's a 😎 **COOL** 😎 picture of myself 😇
+  <img src="https://imgur.com/i5RCt0N.jpg">
+</p>
