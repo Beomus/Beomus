@@ -6,7 +6,7 @@
 
 *****
 
-My name is Hau (pronounced like **how/hoe/who?** 🤔 *nobody knows*). I am a business student who like to code and such. I enjoy writing some random Python and I am also really interested in AI/ML. 
+My name is Hau (pronounced like **how/hoe/who?** 🤔 *nobody knows*). I am a business student who likes to code and such. I enjoy writing some random Python and I am also really interested in AI/ML. 
 
 *****
 
