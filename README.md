@@ -19,7 +19,7 @@ My name is Hau (pronounced like **how/hoe/who?** 🤔 *nobody knows*). I am a bu
 
 *****
 <p align="center"> 
-  Here's a 😎 **COOL** 😎 picture of myself 😇 
+  Here's a 😎 COOL 😎 picture of myself 😇 
 </p>
 <p align="center">
   <img src="https://imgur.com/i5RCt0N.jpg">
