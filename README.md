@@ -1,7 +1,7 @@
 <p align="center"> 👋 Hi there 👋 </p>
 
 <p align="center">
-  <img width="80" height="100" src="https://imgur.com/R462LAk.gif">
+  <img width="80" height="100" src="https://imgur.com/WYCjlxR.gif">
 </p>
 
 *****
