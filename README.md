@@ -37,18 +37,11 @@ My name is Hau (pronounced like **how/hoe/who?** 🤔 *nobody knows*). I am a bu
 
 ---
 
-
 <h3> ⚡ GitHub Stats</h3>
-
-
 <img alt="Beomus' Github Stats" src="https://github-readme-stats.vercel.app/api?username=beomus&show_icons=true&hide_border=true&theme=graywhite" />
-
 <h3> ⚡ Languages </h3>
-
 <img alt="Beomus' Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beomus&exclude_repo=Deep_Learning_Bootcamp,aws-machine-learning-university-accelerated-nlp,tensorflow,Clustering,DCGAN-with-TF-Keras,PyTorch-MNIST-GAN,Python-Linked-List,Web-Dev-CS50,COVID-19-Prediction,Python-ML&hide=javascript"/>
-
 <h3> 🕒 Wakatime </h3>
-
 <img alt="Beomus' Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=beomus"/>
 
 
