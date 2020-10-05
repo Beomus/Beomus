@@ -9,11 +9,11 @@ My name is Hau (pronounced like **how/hoe/who?** 🤔 *nobody knows*). I am a bu
 <a href="https://www.buymeacoffee.com/rOvpSz4" target="_blank"><img height=20 src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 70px !important;" ></a>
 - 😅 Fun fact: ✨ Orange juice does not taste good after you've just brushed your teeth ✨
 
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 
 [<img src="https://spotify-playing.beomus.vercel.app/api/spotify" alt="Beomus' Now Playing" width="350" />](https://open.spotify.com/user/31shd6xfnm65r6xjtxc6e4e3w4xa)
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Pycharm" width="30px" src="https://unpkg.com/simple-icons@v3/icons/pycharm.svg"/>
@@ -27,7 +27,7 @@ My name is Hau (pronounced like **how/hoe/who?** 🤔 *nobody knows*). I am a bu
 
 <br />
 
-### Where to reach me 💬
+## Where to reach me 💬
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
