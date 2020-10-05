@@ -1,7 +1,26 @@
 <h1 align="center"> 👋 Hi there 👋 </h1>
 
+```python
+class Beomus:
+    def __init__(self):
+        self.username = 'Beomus'
+        self.name = 'Hau Le'
+        self.location = 'Tokyo/Asia'
+        self.linkedin = 'https://www.linkedin.com/in/trunghaulelam/'
+        self.mail = 'trunghau60@gmail.com'
+        self.skills = ['Python', 'TensorFlow', 'PyTorch', 'Pandas', 'Seaborn', 'Matplotlib', 
+                       'Jupyter Lab', 'SQL', 'Tableau', 'Git', 'GitHub', 'Ubuntu']
+        self.interest = {
+            'learning': ['Docker', 'AWS', 'NLP', 'Fast ai', float('inf')],
+            'personal': ['Fitness', 'Biking', 'Coffee Recipes']
+        }
+        
+    def __str__(self):
+        return self.name
 
-My name is Hau (pronounced like **how/hoe/who?** 🤔 *nobody knows*). I am a business student who likes to code and such. I enjoy writing some random Python and I am also really interested in AI/ML. 
+if __name__ == '__main__':
+    me = Beomus()
+```
 
 - 📚 I'm working on random projects to learn new skills
 - 🌱 I'm learning more about Deep Learning and NLP
