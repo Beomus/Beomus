@@ -8,7 +8,7 @@ class Beomus:
         self.location = 'Tokyo/Asia'
         self.linkedin = 'https://www.linkedin.com/in/trunghaulelam/'
         self.mail = 'trunghau60@gmail.com'
-        self.skills = ['Python', 'TensorFlow', 'PyTorch', 'Pandas', 'Seaborn', 'Matplotlib', 
+        self.skills = ['Python', 'TensorFlow', 'Keras', 'PyTorch', 'Pandas', 'Seaborn', 'Matplotlib', 
                        'Jupyter Lab', 'SQL', 'Tableau', 'Git', 'GitHub', 'Ubuntu']
         self.interest = {
             'learning': ['Docker', 'AWS', 'NLP', 'Fast ai', float('inf')],
@@ -21,12 +21,16 @@ class Beomus:
 if __name__ == '__main__':
     me = Beomus()
 ```
-
 - 📚 I'm working on random projects to learn new skills
 - 🌱 I'm learning more about Deep Learning and NLP
 - ☕ Coffee in Tokyo? 
 <a href="https://www.buymeacoffee.com/rOvpSz4" target="_blank"><img height=20 src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 70px !important;" ></a>
 - 😅 Fun fact: ✨ Orange juice does not taste good after you've just brushed your teeth ✨
+
+## ~~Specifications~~
+- ~~CPU: 1 exaFLOP~~
+- ~~Storage: 2.5 PB~~
+- ~~Speaker: 60 dB~~
 
 ## Spotify Playing 🎧
 
@@ -38,6 +42,9 @@ if __name__ == '__main__':
 <img align="left" alt="Pycharm" width="30px" src="https://unpkg.com/simple-icons@v3/icons/pycharm.svg"/>
 <img align="left" alt="Jupyter" width="30px" src="https://unpkg.com/simple-icons@v3/icons/jupyter.svg"/>
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="TensorFlow" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="Keras" width="30px" src="https://unpkg.com/simple-icons@v3/icons/keras.svg" />
+<img align="left" alt="PyTorch" width="30px" src="https://unpkg.com/simple-icons@v3/icons/pytorch.svg" />
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
