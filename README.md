@@ -55,9 +55,9 @@ if __name__ == '__main__':
 
 ## Where to reach me 💬
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2000px-Linkedin_icon.svg.png" />][linkedin]
 
-[<img align="left" alt="trunghau60@gmail.com" width="30px" src="https://unpkg.com/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="trunghau60@gmail.com" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/2000px-Gmail_Icon.svg.png" />][gmail]
 
 [<img align="left" alt="Buy Me A Coffee" height="30px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" />][buymeacoffee]
 
