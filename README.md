@@ -26,11 +26,15 @@ if __name__ == '__main__':
 - ☕ Coffee in Tokyo? 
 <a href="https://www.buymeacoffee.com/rOvpSz4" target="_blank"><img height=20 src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 70px !important;" ></a>
 - 😅 Fun fact: ✨ Orange juice does not taste good after you've just brushed your teeth ✨
-
-## ~~Specifications~~
-- ~~CPU: 1 exaFLOP~~
-- ~~Storage: 2.5 PB~~
-- ~~Speaker: 60 dB~~
+  
+<details>
+    <summary><strong><strike>SPECIFICATIONS</strike></strong> </summary>
+    <ul>
+    <li><strike>CPU: 1 exaFLOP</li></strike>
+    <li><strike>Storage: 2.5 PB</li></strike>
+    <li><strike>Speaker: 60 dB</li></strike>
+    </ul>
+</details>
 
 ## Spotify Playing 🎧
 
@@ -46,7 +50,6 @@ if __name__ == '__main__':
 <img align="left" alt="Keras" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2000px-Keras_logo.svg.png" />
 <img align="left" alt="PyTorch" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/2000px-PyTorch_logo_icon.svg.png" />
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2000px-Git_icon.svg.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"/>
@@ -70,7 +73,7 @@ if __name__ == '__main__':
 <h3> ⚡ Languages </h3>
 <img alt="Beomus' Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beomus&exclude_repo=Deep_Learning_Bootcamp,aws-machine-learning-university-accelerated-nlp,tensorflow,Clustering,DCGAN-with-TF-Keras,PyTorch-MNIST-GAN,Python-Linked-List,Web-Dev-CS50,COVID-19-Prediction,Python-ML&hide=javascript"/>
 <h3> 🕒 Wakatime </h3>
-<img alt="Beomus' Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=beomus"/>
+<img alt="Beomus' Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=beomus" />
 
 
 [linkedin]: https://www.linkedin.com/in/trunghaulelam/
