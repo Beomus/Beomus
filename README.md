@@ -34,7 +34,7 @@ if __name__ == '__main__':
 
 ## Spotify Playing 🎧
 
-[<img src="https://spotify-playing.beomus.vercel.app/api/spotify" alt="Beomus' Now Playing" width="350" />](https://open.spotify.com/user/31shd6xfnm65r6xjtxc6e4e3w4xa)
+[<img src="https://spotify-playing.beomus.vercel.app/api/spotify" alt="Beomus' Now Playing" width="450" />](https://open.spotify.com/user/31shd6xfnm65r6xjtxc6e4e3w4xa)
 
 ## Languages and Tools:
 
