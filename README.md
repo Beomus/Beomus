@@ -24,7 +24,7 @@ if __name__ == '__main__':
 - 📚 I'm working on random projects to learn new skills
 - 🌱 I'm learning more about Deep Learning and NLP
 - ☕ Coffee in Tokyo? 
-<a href="https://www.buymeacoffee.com/rOvpSz4" target="_blank"><img height=20 src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 70px !important;" ></a>
+<a href="https://www.buymeacoffee.com/rOvpSz4" target="_blank"><img height=20 src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 70px !important;" ></a> or I'll gladly make you a cup _[here][notion]_.
 - 😅 Fun fact: ✨ Orange juice does not taste good after you've just brushed your teeth ✨
   
 <details>
@@ -79,3 +79,4 @@ if __name__ == '__main__':
 [linkedin]: https://www.linkedin.com/in/trunghaulelam/
 [gmail]: trunghau60@gmail.com
 [buymeacoffee]: https://www.buymeacoffee.com/rOvpSz4
+[notion]: https://www.notion.so/beomus/Coffee-Snob-db46c081ad354718a7d15283f5a41d24
