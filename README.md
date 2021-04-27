@@ -43,7 +43,6 @@ if __name__ == '__main__':
 ## Languages and Tools:
 
 <img align="left" alt="VSC" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2000px-Visual_Studio_Code_1.18_icon.svg.png" />
-<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/2000px-PyCharm_Logo.svg.png"/>
 <img align="left" alt="Jupyter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/2000px-Jupyter_logo.svg.png"/>
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="TensorFlow" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
@@ -60,7 +59,7 @@ if __name__ == '__main__':
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2000px-Linkedin_icon.svg.png" />][linkedin]
 
-[<img align="left" alt="trunghau60@gmail.com" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/2000px-Gmail_Icon.svg.png" />][gmail]
+[<img align="left" alt="trunghau60@gmail.com" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
 
 [<img align="left" alt="Buy Me A Coffee" height="30px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" />][buymeacoffee]
 
