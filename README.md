@@ -21,6 +21,7 @@ class Beomus:
 if __name__ == '__main__':
     me = Beomus()
 ```
+[![wakatime](https://wakatime.com/badge/user/176a24a9-fad5-4ed4-b786-f0b7be85f8d2.svg)](https://wakatime.com/@176a24a9-fad5-4ed4-b786-f0b7be85f8d2)
 - 📚 I'm working on random projects to learn new skills
 - 🌱 I'm learning more about Deep Learning and NLP
 - ☕ Coffee in Tokyo? 
