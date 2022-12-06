@@ -3,17 +3,11 @@
 ```python
 class Beomus:
     def __init__(self):
-        self.username = 'Beomus'
-        self.name = 'Hau Le'
+        self.name = 'Hau'
         self.location = 'Tokyo/Asia'
-        self.linkedin = 'https://www.linkedin.com/in/trunghaulelam/'
-        self.mail = 'trunghau60@gmail.com'
         self.skills = ['Python', 'TensorFlow', 'Keras', 'PyTorch', 'Pandas', 'Seaborn', 'Matplotlib', 
-                       'Jupyter Lab', 'SQL', 'Tableau', 'Git', 'GitHub', 'Ubuntu']
-        self.interest = {
-            'learning': ['Docker', 'AWS', 'NLP', 'Fast ai', float('inf')],
-            'personal': ['Fitness', 'Biking', 'Coffee Recipes']
-        }
+                       'Jupyter', 'SQL', 'Tableau', 'Git', 'GitHub', 'Ubuntu']
+        self.interest = ['Docker', 'Azure', 'NLP', 'Fastai', float('inf')]
         
     def __str__(self):
         return self.name
@@ -22,20 +16,6 @@ if __name__ == '__main__':
     me = Beomus()
 ```
 [![wakatime](https://wakatime.com/badge/user/176a24a9-fad5-4ed4-b786-f0b7be85f8d2.svg)](https://wakatime.com/@176a24a9-fad5-4ed4-b786-f0b7be85f8d2)
-- 📚 I'm working on random projects to learn new skills
-- 🌱 I'm learning more about Deep Learning and NLP
-- ☕ Coffee in Tokyo? 
-<a href="https://www.buymeacoffee.com/rOvpSz4" target="_blank"><img height=20 src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 70px !important;" ></a> or I'll gladly make you a cup _[here][notion]_.
-- 😅 Fun fact: ✨ Orange juice does not taste good after you've just brushed your teeth ✨
-  
-<details>
-    <summary><strong><strike>SPECIFICATIONS</strike></strong> </summary>
-    <ul>
-    <li><strike>CPU: 1 exaFLOP</li></strike>
-    <li><strike>Storage: 2.5 PB</li></strike>
-    <li><strike>Speaker: 60 dB</li></strike>
-    </ul>
-</details>
 
 ## Spotify Playing 🎧
 
@@ -62,12 +42,8 @@ if __name__ == '__main__':
 
 [<img align="left" alt="trunghau60@gmail.com" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
 
-[<img align="left" alt="Buy Me A Coffee" height="30px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" />][buymeacoffee]
-
 <br />
 
 
 [linkedin]: https://www.linkedin.com/in/trunghaulelam/
 [gmail]: trunghau60@gmail.com
-[buymeacoffee]: https://www.buymeacoffee.com/rOvpSz4
-[notion]: https://www.notion.so/beomus/Coffee-Snob-db46c081ad354718a7d15283f5a41d24
